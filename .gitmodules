@@ -1,0 +1,6 @@
+[submodule ".\\projects\\guessing_game"]
+	path = .\\projects\\guessing_game
+	url = https://github.com/leoshn/guessing_game
+[submodule ".\\projects\\hello_cargo"]
+	path = .\\projects\\hello_cargo
+	url = https://github.com/leoshn/hello_cargo
